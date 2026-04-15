@@ -22,4 +22,16 @@ add_executable(BaitapCoSoLapTrinh main.c
         "Luyện tập 2 - Chương 2/Bài 4.cpp"
         "Luyện tập 2 - Chương 2/Bài 5.cpp"
         "Luyện tập 2 - Chương 2/Bài 6.cpp"
-        "Luyện tập 2 - Chương 2/Bài 7.cpp")
+        "Luyện tập 2 - Chương 2/Bài 7.cpp"
+        "LuyenTap3_Chuong3/Bai1_Chuong2_Trang38.cpp"
+        "LuyenTap3_Chuong3/Bai1_Chuong2_Trang39.cpp"
+        "LuyenTap3_Chuong3/Bai1_Chuong2_Trang40.cpp"
+        "LuyenTap3_Chuong3/Bai2_Chuong3_Trang5.cpp"
+        LuyenTap3_Chuong3/Bai2_Chuong3_Trang11.c
+        LuyenTap3_Chuong3/Bai2_Chuong3_Trang12.c
+        LuyenTap3_Chuong3/Bai3.c
+        LuyenTap3_Chuong3/Bai4.c
+        LuyenTap3_Chuong3/Bai5.c
+        LuyenTap3_Chuong3/Bai6.c
+        LuyenTap3_Chuong3/Bai7.c
+)
