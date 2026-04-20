@@ -55,4 +55,14 @@ add_executable(BaitapCoSoLapTrinh main.c
         LuyenTap6_Chuong4/HamCallBack.c
         LuyenTap6_Chuong4/HamStatic.c
         LuyenTap6_Chuong4/Bai2.c
+        LuyenTap7_Chuong5/Bai1.c
+        LuyenTap7_Chuong5/Bai2.c
+        LuyenTap7_Chuong5/Bai3.c
+        LuyenTap7_Chuong5/Bai4.c
+        LuyenTap7_Chuong5/Bai5.c
+        LuyenTap7_Chuong5/Bai6.c
+        LuyenTap7_Chuong5/Bai7.c
+        LuyenTap7_Chuong5/Bai8.c
+        LuyenTap7_Chuong5/Bai9.c
+        LuyenTap7_Chuong5/Bai10.c
 )
