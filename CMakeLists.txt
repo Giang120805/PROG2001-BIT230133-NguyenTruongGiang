@@ -80,4 +80,11 @@ add_executable(BaitapCoSoLapTrinh main.c
         LuyenTap10_Chuong6/Bai2.c
         LuyenTap10_Chuong6/Bai3.c
         LuyenTap10_Chuong6/Bai4.c
+        LuyenTap11/Bai1.c
+        LuyenTap11/Bai2.c
+        LuyenTap11/Bai3.c
+        LuyenTap11/Bai4.c
+        LuyenTap11/Bai5.c
+        LuyenTap11/Bai6.c
+        LuyenTap11/Bai7.c
 )
